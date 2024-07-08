@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate web and app developer from Poland</h3>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michfigg&label=Profile%20views&color=0e75b6&style=flat" alt="michfigg" /> </p>
 
 - 🔭 I’m currently working on **personal development and learning new tools**
 
-- 🌱 I’m currently learning **Node.js and testing tools**
+- 🌱 I’m currently learning **Testing tools**
 
-- 🤝 I’m looking for help with **code development and support**
+- 🤝 I’m looking for **Internship**
 
 - 📫 How to reach me **mfigwer38@gmail.com**
 
