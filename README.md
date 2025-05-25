@@ -1,11 +1,15 @@
 # Hi 👋, I'm Michał
 
-## 🎯 **Aspiring Data Analyst** |  Helping businesses make smarter decisions through data
+## 🎯 **Aspiring Data Analyst** | Helping businesses make smarter decisions through data
 
-· Based in Poland
-· Pursuing a Master’s degree in Applied Computer Science
-· Bachelor’s in Computer Science and Econometrics
-· Actively looking for internships or entry-level roles in data analytics
+
+- Based in **Poland**  
+- Pursuing a Master’s degree in **Applied Computer Science**  
+- Bachelor’s in **Computer Science and Econometrics**  
+- Actively looking for **internships** or entry-level roles in **data analytics**  
+- Skilled in **data analytics**, currently exploring **machine learning** and **data engineering**
+
+
 
 ---
 
@@ -13,19 +17,19 @@
 I’m a motivated aspiring **Data Analyst** with a background in computer science and econometrics.
 I enjoy solving real-world problems using data and have hands-on experience in:
 
-· Data analysis with **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- Data analysis with **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 
-· Writing efficient queries in **SQL**
+- Writing efficient queries in **SQL**
 
-· Creating interactive dashboards in **Power BI** and **Tableau**
+- Creating interactive dashboards in **Power BI** and **Tableau**
 
-· **Data visualization** and storytelling
+- **Data visualization** and storytelling
 
-· **Data cleaning** and transformation
+- **Data cleaning** and transformation
 
-· Working with **Excel** for exploration and reporting
+- Working with **Excel** for exploration and reporting
 
-· Version control with **Git** and development in **Jupyter Notebook**
+- Version control with **Git** and development in **Jupyter Notebook**
 
 ---
 <h2>💻 Tech Stack</h2>
