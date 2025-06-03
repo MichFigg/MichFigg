@@ -6,7 +6,7 @@
 - Based in **Poland**  
 - Pursuing a Master’s degree in **Applied Computer Science**  
 - Bachelor’s in **Computer Science and Econometrics**  
-- Actively looking for **internships** or entry-level roles in **data analytics**  
+- Actively looking for **internships** or entry-level roles in **data analytics** or **data engineer**
 - Skilled in **data analytics**, currently exploring **machine learning** and **data engineering**
 
 
